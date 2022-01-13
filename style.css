@@ -1,0 +1,22 @@
+p{
+  text-align: left;
+}
+
+/*top background image and buttons*/
+
+
+.img-fluid{
+  filter: blur(1px);
+  -webkit-filter: blur(1px);
+  filter: brightness(30%);
+  -webkit-filter: brightness(30%);
+  
+}
+
+.jumbotron-hero {
+  height: 50em;
+  background-image: url("https://images.pexels.com/photos/390051/surfer-wave-sunset-the-indian-ocean-390051.jpeg?cs=srgb&dl=pexels-pixabay-390051.jpg&fm=jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;  
+}
