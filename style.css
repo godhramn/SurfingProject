@@ -1,0 +1,14 @@
+p{
+  text-align: left;
+}
+
+/*top background image and buttons*/
+
+.jumbotron {
+  background-image: url("https://images.pexels.com/photos/390051/surfer-wave-sunset-the-indian-ocean-390051.jpeg?cs=srgb&dl=pexels-pixabay-390051.jpg&fm=jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; 
+  color: #fff;
+  height: 30em;
+}
